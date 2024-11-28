@@ -25,4 +25,5 @@ class test
 {
     private $xx = 1;
     private $bb = 2;
+    private $cc = 3;
 }
