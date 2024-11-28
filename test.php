@@ -23,5 +23,5 @@
 
 class test
 {
-
+    private $xx = 1;
 }
